@@ -1,0 +1,98 @@
+
+body {
+    background-image: url(https://previews.123rf.com/images/alexgrec/alexgrec2004/alexgrec200400515/145342603-the-stone-texture-background-of-the-wall-is-gray-with-flecks-full-screen-as-background-background-lo.jpg);
+    width: 100%;
+}
+form {
+    background: white;
+   
+}
+button {margin: 2em 2em 2em 0em;
+    background-color: rgb(29, 186, 214);
+   
+}
+h1{
+    color: rgb(29, 186, 214);
+}
+
+#Myname{
+    color: blanchedalmond;
+    background-color:rgb(29, 186, 214);
+    font-weight: bold;
+    
+}
+#exampleInputName{
+    width: 40%;
+    
+}
+#exampleInputEmail1{
+    width: 40%;
+    
+}
+#exampleInputMessage{
+    width: 40%;
+    height: 5em;
+    padding-bottom:  2em;;
+    
+}
+footer{
+    background-color: lightgray;
+    padding: 1.3em;
+   
+    
+}
+.container{
+    padding-top: 3em;
+    width: 40%;
+    float: left;
+    padding-left: 3em;
+    
+}
+#image1{
+    float: left;
+    padding: 1em;
+}
+.container2{
+    
+    padding: 12%;
+    padding-top: 5em;
+    padding-left: 3em;
+    padding-bottom: 72px;
+    
+}
+.block  {
+    background-color: white;
+    padding: 2em;
+    
+}
+.page-footer{
+    background-color:lightgray;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.box{
+    padding-left: 1em;
+}
+.block1{
+    display:block;
+    background-color:white;
+    margin-top: 5em;
+    margin-left: 3em;
+        width: 40%;
+        padding: 1em;
+        float: left;
+        
+}
+.column{
+    margin: auto;
+}
+.row3{ 
+   padding: 1em;
+}
+head{
+    position: fixed;
+    
+}
