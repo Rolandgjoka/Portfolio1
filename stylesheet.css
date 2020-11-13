@@ -2,6 +2,9 @@
 body {
     background-image: url(https://previews.123rf.com/images/alexgrec/alexgrec2004/alexgrec200400515/145342603-the-stone-texture-background-of-the-wall-is-gray-with-flecks-full-screen-as-background-background-lo.jpg);
     width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 form {
     background: white;
@@ -81,13 +84,14 @@ footer{
     background-color:white;
     margin-top: 5em;
     margin-left: 3em;
-        width: 40%;
+        width: 50%;
         padding: 1em;
         float: left;
         
 }
 .column{
-    margin: auto;
+    
+    padding: auto;
 }
 .row3{ 
    padding: 1em;
