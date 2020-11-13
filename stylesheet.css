@@ -100,3 +100,10 @@ head{
     position: fixed;
     
 }
+
+    #image3{
+        
+         height: 300px;
+         width: 300px;           
+         margin-top:10px;
+    }
